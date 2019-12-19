@@ -1,0 +1,90 @@
+{
+    "name": "PayLane",
+    "description": "PayLane provides the best online payments solutions for SaaS & Ecommerce businesses. Apply and get more customers.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_09-06-2019-08-18-pm.png",
+    "tags": [
+        "api united kingdom",
+        "financial",
+        "financial services",
+        "has api",
+        "have api",
+        "no api definition",
+        "payments",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/paylane\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "PayLane",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_09-06-2019-08-18-pm.png",
+            "humanURL": "http:\/\/paylane.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/paylane-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/paylane-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.paylane.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "feed:\/\/feeds.feedburner.com\/AcrossTheBoard"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/paylane"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/paylane"
+        },
+        {
+            "type": "Email",
+            "url": "support@paylane.com"
+        },
+        {
+            "type": "FAQ",
+            "url": "https:\/\/devzone.paylane.com\/developer-faq\/"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/paylane.com\/pricing\/"
+        },
+        {
+            "type": "Support",
+            "url": "https:\/\/paylane.com\/support\/"
+        },
+        {
+            "type": "Tutorials",
+            "url": "https:\/\/paylane.com\/support\/tutorials\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/PayLane"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/devzone.paylane.com\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/paylane.com"
+        }
+    ]
+}
